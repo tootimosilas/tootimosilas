@@ -19,4 +19,4 @@
 <p align="center"> 
   $${\textsf{\color{gray}rie/ruru ♠︎ she/him ♠︎ pangender}}$$<br>
   $${\textsf{\color{gray}c+h encouraged ♠︎ mostly busy w2i.}}$$<br>
-  $${\textsf{\color{gray}yes this is bunz, i just wabnllna use my names}}$$<br>
+  $${\textsf{\color{gray}yes this is bunz, i just wanna use my names}}$$<br>
