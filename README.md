@@ -5,8 +5,7 @@
  <br><br>
 
  <p align="center"> 
-    $${\textsf{\color{gray}The Dirties}}$$<br>
-<a href="https://github.com/scaredycatduo/"> main</a> ♠︎ <a href="https://scaredycatduo.atabook.org/">atabook</a> <br>
+    $${\textsf{\color{gray}the dirties}}$$<br>
 
 <br><br>
 
@@ -17,5 +16,7 @@
 <br><br>
 
 <p align="center"> 
-  $${\textsf{\color{gray}bunz/rie ♠︎ she/him ♠︎ pangender}}$$<br>
-  $${\textsf{\color{gray}c+h encouraged ♠︎ mostly busy w2i.}}$$<br>
+  $${\textsf{\color{gray}rie , they/her pref}}$$<br>
+  $${\textsf{\color{gray}cuds+hugs encouraged , asleep mostly.}}$$<br>
+  @thecleansers
+
