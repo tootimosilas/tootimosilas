@@ -1,6 +1,6 @@
 <div align="center">
  
- <img width="500" height="225" alt="1000057047" src="https://files.catbox.moe/q0b8q9.png" />
+ <img width="500" height="350" alt="1000057047" src="https://files.catbox.moe/q0b8q9.png" />
 
 <br>
 
@@ -13,4 +13,4 @@
 
 <div align="center">
  
- <img width="500" height="225" alt="1000057047" src="https://files.catbox.moe/evubdl.png" />
+ <img width="500" height="350" alt="1000057047" src="https://files.catbox.moe/evubdl.png" />
